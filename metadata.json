@@ -1,0 +1,5 @@
+{
+  "name": "Local AI First Desktop Apps",
+  "description": "A high-performance, local-first AI operating system prototype featuring semantic file systems and eBPF-driven hardware orchestration.",
+  "requestFramePermissions": []
+}
